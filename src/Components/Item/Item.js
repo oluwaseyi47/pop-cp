@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
+// first component created
 import './Item.css';
 const Item = ({ item, handleVision }) => {
   return (
